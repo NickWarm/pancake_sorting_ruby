@@ -1,7 +1,9 @@
+# 解析Pancake sorting ruby code
+
 臨摹這段code，真的太精彩了
 - [Sorting algorithms/Pancake sort - Rosetta Code](https://rosettacode.org/wiki/Sorting_algorithms/Pancake_sort#Ruby)
 
-開始閱讀前，建議先看過這份投影片：[]()
+開始閱讀前，建議先看過這份我寫的投影片：[pancake sorting 解析](http://www.slideshare.net/ssuser5a7ddc/pancake-sorting-ruby)
 
 現在開始step by step講解
 
